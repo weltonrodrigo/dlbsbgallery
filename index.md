@@ -1,4 +1,6 @@
-## Galeria Deep Learning Brasília
+---
+title: Galeria Deep Learning Brasília
+---
 
 Esta galeria contém aplicativos web criados pelos participantes do grupo de estudos de deep learning de Brasília.
 
